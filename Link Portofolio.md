@@ -11,3 +11,7 @@ Proyek ini membahasa mengenai topologi BGP antar dua perusahan pusat dengan peru
 ## 3. Monitoring Suhu dan Udara
 Prototipe sistem monitoring kualitas udara real-time berbasis ESP32 dengan sensor MQ-7 (CO), MQ-135 (CO2/polutan), dan DHT22 (suhu & kelembaban), tervisualisasi via Blynk IoT dengan alarm buzzer
 (https://github.com/Pedro2532003/Proyek-Penelitian-Ilmiah)
+
+## 4. Laporan Vulnerability pada Web OWASPJuice
+Laporan mengenai kerentanan pada web OWASP Juice
+(https://github.com/Pedro2532003/Owasp-Juice)
