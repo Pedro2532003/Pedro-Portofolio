@@ -15,3 +15,11 @@ Prototipe sistem monitoring kualitas udara real-time berbasis ESP32 dengan senso
 ## 4. Laporan Vulnerability pada Web OWASPJuice
 Laporan mengenai kerentanan pada web OWASP Juice
 (https://github.com/Pedro2532003/Owasp-Juice)
+
+## 5. Admin Feedback System — Cookie Reuse & MFA Bypass Lab
+Project mengenai simulasi penyerangan Red Team dan Blue Team
+(https://github.com/Pedro2532003/admin-feedback-lab)
+
+## 6. OverTheWire Bandit
+Tutorial untuk setiap level Bandit
+(https://github.com/Pedro2532003/OvertheWire-Bandit)
